@@ -32,20 +32,12 @@ main {
     padding: 20px;
 }
 
-.imagen {
-    width: 300px;
+/* Estilos para la imagen fuera del flex (por ejemplo en otras secciones) */
+ .imagen {
+    width: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     display: block;
     margin: 10px auto;
-}
+} 
 
-footer {
-    background-color: #222;
-    color: #aaa;
-    text-align: center;
-    padding: 10px;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
